@@ -5,7 +5,7 @@ used in Java and all of these have some different use-cases
 1. Member Inner Class
 2. Local Inner Class
 3. Static Inner Class
-4. Anonymous Inner Class
+4. Anonymous Inner Class -
 class A{
    class B{
    }
