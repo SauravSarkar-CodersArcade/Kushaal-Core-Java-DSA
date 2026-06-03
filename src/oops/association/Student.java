@@ -40,5 +40,6 @@ public class Student {
         Student s1 = new Student("Kushaal", "kgp@gmail.com",
                 "Yelahanka", "20211CIT0148", b1, a1, t1);
         s1.studentDetails();
+
     }
 }
